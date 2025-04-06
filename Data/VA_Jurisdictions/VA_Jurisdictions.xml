@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>This data set contains the jurisdiction boundaries for all counties (96) cities (40), and towns (118) in the Commonwealth of Virginia. It provides information on VDOT districts and residencies. This layer was formed by joining the base boundary polygon layer provided by VGIN to a table of VDOT business data, providing the fields needed to allow this layer to be used for many VDOT applications.</abstract>
+            <purpose>These jurisdiction boundaries are used by VDOT as a baselayer in a number of GIS applications, and are provided to GIS users for their own maps and applications.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Roads</themekey>
+                <themekey> Jurisdictions</themekey>
+                <themekey> Transportation</themekey>
+                <themekey> Infrastructure</themekey>
+                <themekey> VITA</themekey>
+                <themekey> Town</themekey>
+                <themekey> VDOT</themekey>
+                <themekey> City</themekey>
+                <themekey> Virginia</themekey>
+                <themekey> location</themekey>
+                <themekey> 51</themekey>
+                <themekey> County</themekey>
+                <themekey> boundaries</themekey>
+                <themekey> VGIN</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Disclaimer: Any person, organization, firm, corporation or other entity using this database does so at its own risk. The Virginia Department of Transportation accepts no liability for any loss suffered by any person, organization, firm, corporation, or other entity from the use of the information in this database. In addition, the Virginia Department of Transportation does not guarantee system availability and is not responsible for any losses associated with any system unavailability. VDOT's digital data files are for use in performing the official business of the Commonwealth of Virginia. VDOT Divisions set all policy on the allowable uses of this data. The representations of VDOT business data contained within are believed to be correct. This data is provided without any guarantee of accuracy, timeliness or completeness. No business decisions should be made based on this data without first validating its accuracy against the official Source System of Record (SSR). Users of this data are solely responsible for determining if it is appropriate for their application. Please report errors and omissions directly to the appropriate VDOT Division data owner.</useconst>
+        <datacred>Virginia Dept of Transportation, IT Department, Business Enablement Group Source boundary data for counties provided by the Virginia Information Technology Agency (VITA), Virginia Geographic Information Network (VGIN)</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
